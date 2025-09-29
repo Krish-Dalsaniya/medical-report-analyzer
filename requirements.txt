@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+PyPDF2
+spacy
+pytesseract
+pdf2image
+Faker
